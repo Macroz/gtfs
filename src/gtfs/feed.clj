@@ -1,4 +1,4 @@
-(ns gtfs-feed.core
+(ns gtfs.feed
   (:require [flatland.protobuf.core :as proto]))
 
 (def gtfs-feed-mappings

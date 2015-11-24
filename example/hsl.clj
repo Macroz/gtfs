@@ -1,5 +1,5 @@
-(ns gtfs-feed.example.hsl
-  (:require [gtfs-feed.core :as gtfs]
+(ns gtfs.example.hsl
+  (:require [gtfs.feed :as gtfs]
             [clj-time.core :as time]
             [clj-time.coerce :as timec]))
 

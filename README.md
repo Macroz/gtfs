@@ -1,4 +1,4 @@
-# gtfs-feed
+# gtfs
 
 [GTFS](https://developers.google.com/transit/gtfs/)
 
